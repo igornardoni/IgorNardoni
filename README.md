@@ -30,8 +30,6 @@
 - 🔭 I’m currently working on HTML, CSS, JavaScript and ReactJS!
 - 🌱 I’m currently learning Node.js, Angular, Java and Spring!
 - 👯 I’m looking to collaborate on open source projects
-  
-  
-![Snake gif](https://github.com/IgorNardoni/IgorNardoni/blob/output/github-contribution-grid-snake.svg)
+
   
   
