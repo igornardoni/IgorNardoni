@@ -32,6 +32,6 @@
 - 👯 I’m looking to collaborate on open source projects
   
   
-![Snake animation](https://github.com/IgorNardoni/IgorNardoni/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/IgorNardoni/IgorNardoni/blob/output/github-contribution-grid-snake.svg)
   
   
