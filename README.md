@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on HTML, CSS, JavaScript, ReactJS and Node.js!
 - 🌱 I’m currently learning TypeScript, Python and Django!
 - 🤩 I’m also have intimacy with Bootstrap and jQuery!
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open source projects!
 
   
   
