@@ -30,9 +30,9 @@
   <a href="https://www.linkedin.com/in/igornardoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
-- 🔭 I’m currently working on HTML, CSS, JavaScript, ReactJS and Node.js!
-- 🌱 I’m currently learning TypeScript, Python and Django!
-- 🤩 I’m also have intimacy with Bootstrap and jQuery!
+- 🔭 I’m currently working on HTML, CSS, JavaScript and Node.js!
+- 🌱 I’m currently learning TypeScript, ReactJS and React Native!
+- 🤩 I’m also have intimacy with Bootstrap, Tailwind and jQuery!
 - 👯 I’m looking to collaborate on open source projects!
 
   
