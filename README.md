@@ -16,6 +16,9 @@
   <!-- <img align="center" alt="Igor-Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /> -->
   <img align="center" alt="Igor-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
   <!-- <img align="center" alt="Igor-jQuery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" /> -->
+  
+       <img align="center" alt="Igor-TypeScript" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  
  
 </div>
   
