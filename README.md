@@ -7,7 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   
-  <h3>I work with:</h3>
+  <h3 style="color:red">I work with:</h3>
 <img align="center" alt="Igor-JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Igor-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
