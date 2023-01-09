@@ -1,5 +1,10 @@
 ### Hi there, I'm Igor Nardoni 👋
 
+Hi! I'm Igor, majoring in Web Development, with a year and a half experience in the area and a freelancer Web Designer. 
+I made college of Electronic and Computer Engineering, where learn a lot about development and machine learning. Although I study programming since childhood, when I created a small game menu using arrays, through internet tutorials. And worked with hardware, IT support and software programming my whole life, even when not working directly with technology.
+I live in São Paulo, Brazil; have 27 years old and I've always been a technology lover! ☕❤️
+I use HTML, CSS, Bootstrap and JavaScript (ReactJS+NextJS) on the Front-End and I use Node.js (AdonisJS) or PHP (Laravel) on the Back-End.
+
 <div align="center">
   <a href="https://github.com/IgorNardoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igornardoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
