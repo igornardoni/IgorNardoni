@@ -48,8 +48,8 @@ I use HTML, CSS, Bootstrap and JavaScript (ReactJS+NextJS) on the Front-End and 
 <img align="center" alt="Igor-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="center" alt="Igor-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="Igor-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-<img align="center" alt="Igor-Unity" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
-<img align="center" alt="Igor-Unreal" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" />                  
+<img align="center" alt="Igor-Unity" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+<img align="center" alt="Igor-Unreal" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" />                  
           
   
 </div>
