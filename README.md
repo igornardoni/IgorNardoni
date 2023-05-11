@@ -1,9 +1,6 @@
 ### Hi there, I'm Igor Nardoni 👋
 
-Hi! I'm Igor, majoring in Web Development, with a year and a half experience in the area and a freelancer Web Designer. 
-I made college of Electronic and Computer Engineering, where learn a lot about development and machine learning. Although I study programming since childhood, when I created a small game menu using arrays, through internet tutorials. And worked with hardware, IT support and software programming my whole life, even when not working directly with technology.
-I live in São Paulo, Brazil; have 27 years old and I've always been a technology lover! ☕❤️
-I use HTML, CSS, Bootstrap and JavaScript (ReactJS+NextJS) on the Front-End and I use Node.js (AdonisJS) or PHP (Laravel) on the Back-End.
+Hey! I'm Igor, graduated in Web Development, with a year and a half of experience in the area, freelancer Web Designer and doing a bachelor's degree in Software Engineering. He also studied Electronics and Computer Engineering, where he learned a lot about development and machine learning. But I didn't get to finish. Despite studying programming since I was a child, when I created a small game menu using arrays, through tutorials on the internet, and I've worked with hardware, IT support and software programming my whole life, even though I don't work directly with technology. I live in sao paulo Brazil; I'm 28 years old and I've always been a technology lover! ☕❤️ I use HTML, CSS, Bootstrap and JavaScript (ReactJS+NextJS, Angular) in Front-End and Node.js (AdonisJS) or Python (Django, Django Rest Framework) in Back-End.
 
 <div align="center">
   <a href="https://github.com/IgorNardoni">
