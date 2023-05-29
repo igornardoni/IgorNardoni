@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor Nardoni 👋
 
-Hey! I'm Igor, graduated in Web Development, with a year and a half of experience in the area, freelancer Web Designer and doingin a bachelor's degree in Software Engineering. I also studied Electronics and Computer Engineering, where he learned a lot about development and machine learning. But I didn't get to finish. Despite studying programming since I was a child, when I created a small game menu using arrays, through tutorials on the internet, and I've worked with hardware, IT support and software programming my whole life, even though I don't work directly with technology. I live in sao paulo Brazil; I'm 28 years old and I've always been a technology lover! ☕❤️ I use HTML, CSS, Bootstrap and JavaScript (ReactJS+NextJS, Angular) in Front-End and Node.js (AdonisJS) or Python (Django, Django Rest Framework) in Back-End.
+Hey! I'm Igor, graduated in Web Development, with a year and a half of experience in the area, freelancer Web Designer and doingin a bachelor's degree in Software Engineering. I also studied Computer Engineering, where he learned a lot about development and machine learning. But I didn't get to finish. Despite studying programming since I was a child, when I created a small game menu using arrays, through tutorials on the internet, and I've worked with hardware, IT support and software programming my whole life, even though I don't work directly with technology. I live in sao paulo Brazil; I'm 28 years old and I've always been a technology lover! ☕❤️ I use HTML, CSS, Bootstrap and JavaScript (ReactJS+NextJS, Angular) in Front-End and Node.js (AdonisJS) or Python (Django, Django Rest Framework) in Back-End.
 
 <div align="center">
   <a href="https://github.com/IgorNardoni">
@@ -15,8 +15,6 @@ Hey! I'm Igor, graduated in Web Development, with a year and a half of experienc
 <img align="center" alt="Igor-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 <img align="center" alt="Igor-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
  <img align="center" alt="Igor-Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img align="center" alt="Igor-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="Igor-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Igor-Angular" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Igor-Node" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Igor-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -25,29 +23,19 @@ Hey! I'm Igor, graduated in Web Development, with a year and a half of experienc
   
 
    <h3>Studin' this:</h3>   
-  <img align="center" alt="Igor-PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Igor-Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />   
-  <img align="center" alt="Igor-GitLab" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
   <img align="center" alt="Igor-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Igor-Next" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
   <img align="center" alt="Igor-Adonis" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original-wordmark.svg" />
   
   <h3>And I have intimacy with:</h3>
-  <img align="center" alt="Igor-Handle" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" />   <img align="center" alt="Igor-Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />         
+  <img align="center" alt="Igor-Handle" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" />   
+  <img align="center" alt="Igor-Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />         
   <img align="center" alt="Igor-Xd" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
   <img align="center" alt="Igor-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Igor-jQuery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
                                                  
   
            
-  <h3>In the past, in the Engineering college, I worked a little bit with:</h3>         
-<img align="center" alt="Igor-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="center" alt="Igor-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="center" alt="Igor-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="center" alt="Igor-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-<img align="center" alt="Igor-Unity" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
-<img align="center" alt="Igor-Unreal" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" />                  
-          
   
 </div>
   
@@ -62,9 +50,9 @@ Hey! I'm Igor, graduated in Web Development, with a year and a half of experienc
   <a href="https://www.linkedin.com/in/igornardoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
-- 🔭 I’m currently working on HTML/CSS, JavaScript, Bootstrap, ReactJS, TypeScript, MySQL, Node.js and others techs!
-- 🌱 I’m currently learning PHP, Laravel, Adonis.js, Docker and Firebase!
-- 🤩 I’m also have intimacy with Handlebars, Sass, Adobe XD and Figma!
+- 🔭 I’m currently working on JavaScript, Python and TypeScript!
+- 🌱 I am currently studying Bachelors in Software Engineering
+- 🤩 I’m also have intimacy with Handlebars, SASS, SCSS, PowerShell, Bash!
 - 👯 I’m looking to collaborate on open source projects!
 
   
