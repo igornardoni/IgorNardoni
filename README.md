@@ -2,6 +2,8 @@
 
 Hey! I'm Igor, graduated in Web Development, with a year and a half of experience in the area, freelancer Web Designer and doingin a bachelor's degree in Software Engineering. I also studied Computer Engineering, where he learned a lot about development and machine learning. But I didn't get to finish. Despite studying programming since I was a child, when I created a small game menu using arrays, through tutorials on the internet, and I've worked with hardware, IT support and software programming my whole life, even though I don't work directly with technology. I live in sao paulo Brazil; I'm 28 years old and I've always been a technology lover! ☕❤️ I use HTML, CSS, Bootstrap and JavaScript (ReactJS+NextJS, Angular) in Front-End and Node.js (AdonisJS) or Python (Django, Django Rest Framework) in Back-End.
 
+"Something powerful that I learned as a programmer and that we must apply in reality is: FAIL FAST"
+
 <div align="center">
   <a href="https://github.com/IgorNardoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igornardoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
