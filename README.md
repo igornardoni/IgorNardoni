@@ -1,6 +1,10 @@
 ### Hi there, I'm Igor Nardoni 👋
 
-Hey! I'm Igor, graduated in Web Development, with a year and a half of experience in the area, freelancer Web Designer and doingin a bachelor's degree in Software Engineering. I also studied Computer Engineering, where he learned a lot about development and machine learning. But I didn't get to finish. Despite studying programming since I was a child, when I created a small game menu using arrays, through tutorials on the internet, and I've worked with hardware, IT support and software programming my whole life, even though I don't work directly with technology. I live in sao paulo Brazil; I'm 28 years old and I've always been a technology lover! ☕❤️ I use Python (Django, Django Rest Framework) in Back-End and HTML, CSS, Bootstrap and TypeScript (Angular) in Front-End. I also study Game Development with C#/Unity, C++/Unreal and Python/UPBGE.
+Hey! I'm Igor, graduated in Web Development, with a year and a half of experience in the area, freelance Web Designer and studying for a bachelor's degree in Software Engineering. I also studied Computer Engineering, where I learned a lot about software development and machine learning. But I didn't finish. Despite studying programming since I was a child, when I created a small game menu using arrays, through tutorials on the internet, and working with hardware, IT support and software my whole life, even though I didn't work directly with programming, it was in my veins . Until in 2021, I finally decided to follow the career that was designed for me as a child.
+I live in São Paulo, Brazil and I'm 28 years old. I've always been a technology lover! ☕❤️
+Even as a child, I took apart electronic devices to understand how they worked and spent hours trying to understand how Windows 95, Windows XP and similar software worked.
+I am a Back-End Developer and Full-Stack Developer, using Python (Django, Django Rest Framework) on the Back-End and HTML, CSS, Bootstrap and TypeScript (Angular) on the Front-End.
+I also study in parallel Game Development with C#/Unity, C++/Unreal and Python/UPBGE.
 
 "Something powerful that I learned as a programmer and that we must apply in reality is: FAIL FAST"
 
