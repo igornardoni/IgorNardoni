@@ -7,7 +7,8 @@ Hey! I'm Igor, graduated in Web Development, with a year and a half of experienc
 <div align="center">
   <a href="https://github.com/IgorNardoni">
 
-[Igor Nardoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=igornardoni&include_all_commits&hide=prs,contribs&show_icons=True&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=igornardoni&include_all_commits&hide=prs,contribs&show_icons=True&theme=tokyonight
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorNardoni&layout=compact&langs_count=7&theme=tokyonight"/> 
     
 </div>
