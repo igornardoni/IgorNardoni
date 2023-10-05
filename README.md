@@ -64,9 +64,9 @@ I also study in parallel Game Development with C#/Unity, C++/Unreal and Python/U
   <a href="https://www.linkedin.com/in/igornardoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
-- 🔭 I’m currently working on JavaScript, Python and TypeScript!
+- 🔭 I’m currently working on Python, TypeScript, Django, Django Rest Framework and Angular!
 - 🌱 I am currently studying Bachelors in Software Engineering
-- 🤩 I’m also have intimacy with Handlebars, SASS, SCSS, PowerShell, Bash!
+- 🤩 I’m also have intimacy with C#, JavaScript, HTML, CSS, Handlebars, SASS, SCSS, PowerShell, Bash!
 - 👯 I’m looking to collaborate on open source projects!
 
   
