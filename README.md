@@ -45,8 +45,8 @@ I also study in parallel Game Development with C#/Unity, C++/Unreal and Python/U
 <img align="center" alt="Igor-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="center" alt="Igor-Pytest" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain-wordmark.svg"/>
 <img align="center" alt="Igor-Pytorch" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" />
-<img align="center" alt="Igor-Three.js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
-<img align="center" alt="Igor-C++" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="Igor-Three.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
+<img align="center" alt="Igor-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="Igor-Unity" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
 <img align="center" alt="Igor-Unreal" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" />
                                                  
