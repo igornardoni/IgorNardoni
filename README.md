@@ -1,10 +1,37 @@
 ### Hi there, I'm Igor Nardoni 👋
 
-Hey! I'm Igor, graduated in Web Development, with a year and a half of experience in the area, freelance Web Designer and studying for a bachelor's degree in Software Engineering. I also studied Computer Engineering, where I learned a lot about software development and machine learning. But I didn't finish. Despite studying programming since I was a child, when I created a small game menu using arrays, through tutorials on the internet, and working with hardware, IT support and software my whole life, even though I didn't work directly with programming, it was in my veins . Until in 2021, I finally decided to follow the career that was designed for me as a child.
-I live in São Paulo, Brazil and I'm 28 years old. I've always been a technology lover! ☕❤️
-Even as a child, I took apart electronic devices to understand how they worked and spent hours trying to understand how Windows 95, Windows XP and similar software worked.
-I am a Back-End Developer and Full-Stack Developer, using Python (Django, Django Rest Framework) and Java (Spring Framework, Spring Boot) on the Back-End and Bootstrap and TypeScript (Angular) on the Front-End.
-I also study in parallel Game Development with C#/Unity, C++/Unreal and Python/UPBGE/PyGame.
+Hey there! I'm Igor, a backend-focused developer, holding a degree in Web Development and currently pursuing a Bachelor's in Software Engineering. My journey into coding started way back in childhood when I whipped up a tiny game menu using arrays. Since then, I've been exploring various tech realms.
+
+With about two and a half years of industry experience under my belt, I've been diving deep into backend system development. My go-to tools are Python (Django, Django Rest Framework) and Java (Spring Framework, Spring Boot), crafting sturdy solutions for servers and APIs.
+
+But hey, I'm not just about the backend! I've got some fullstack skills up my sleeve too, tinkering with Bootstrap and TypeScript (Angular) on the frontend to deliver complete solutions to clients. And oh, on the side, I dabble in Python automation, streamlining processes and routines.
+
+Based in São Paulo, Brazil, I'm 28 years old, and tech has been my jam since forever. I used to dismantle electronics as a kid just to figure out how they tick.
+
+Check out my projects and studies on GitHub: https://github.com/igornardoni
+
+🤝 SOFT SKILLS:
+I'm a keen observer, focused and proactive, traits that make problem-solving a breeze and teamwork a pleasure. My mind's always buzzing with creative ideas, and I'm constantly on the lookout to learn new techniques and tools.
+
+👩‍💻 HARD SKILLS:
+
+• Python
+• Java
+• Spring | Spring Boot
+• Django | Django Rest Framework
+• Angular
+• TypeScript
+• HTML5, CSS3
+• Bootstrap
+• JavaScript
+• Git/GitHub
+• MySQL, MariaDB, SQLite, Redis
+• React
+
+• PyAutoGUI
+• Selenium
+• Pytest
+• OpenPyXL
 
 "Something powerful that I learned as a programmer and that we must apply in reality is: FAIL FAST"
 
