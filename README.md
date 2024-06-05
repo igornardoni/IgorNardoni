@@ -16,22 +16,39 @@ I'm a keen observer, focused and proactive, traits that make problem-solving a b
 👩‍💻 HARD SKILLS:
 
 • Python
+
 • Java
+
 • Spring | Spring Boot
+
 • Django | Django Rest Framework
+
 • Angular
+
 • TypeScript
+
 • HTML5, CSS3
+
 • Bootstrap
+
 • JavaScript
+
 • Git/GitHub
+
 • MySQL, MariaDB, SQLite, Redis
+
 • React
 
+
+
 • PyAutoGUI
+
 • Selenium
+
 • Pytest
+
 • OpenPyXL
+
 
 "Something powerful that I learned as a programmer and that we must apply in reality is: FAIL FAST"
 
