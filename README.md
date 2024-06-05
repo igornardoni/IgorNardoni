@@ -2,7 +2,7 @@
 
 Hey there! I'm Igor, a backend-focused developer, holding a degree in Web Development and currently pursuing a Bachelor's in Software Engineering. My journey into coding started way back in childhood when I whipped up a tiny game menu using arrays. Since then, I've been exploring various tech realms.
 
-With about two and a half years of industry experience under my belt, I've been diving deep into backend system development. My go-to tools are Python (Django, Django Rest Framework) and Java (Spring Framework, Spring Boot), crafting sturdy solutions for servers and APIs.
+With about two and a half years of industry experience under my belt, I've been diving deep into backend system development. My go-to tools are Java (Spring Framework, Spring Boot) and  Python (Django, Django Rest Framework), crafting sturdy solutions for servers and APIs.
 
 But hey, I'm not just about the backend! I've got some fullstack skills up my sleeve too, tinkering with Bootstrap and TypeScript (Angular) on the frontend to deliver complete solutions to clients. And oh, on the side, I dabble in Python automation, streamlining processes and routines.
 
